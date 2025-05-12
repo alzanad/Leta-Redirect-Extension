@@ -1,15 +1,33 @@
+رخصة MIT
+
+حقوق النشر (c) 2025 الزَّنَاد
+
+يُمنح الإذن لأي شخص يحصل على نسخة من هذا البرنامج وملفات الوثائق المرتبطة به ("البرنامج")، للتعامل في البرنامج دون قيود، بما في ذلك على سبيل المثال لا الحصر حقوق استخدام ونسخ وتعديل ودمج ونشر وتوزيع وترخيص و/أو بيع نسخ من البرنامج، والسماح للأشخاص الذين يتم تزويد البرنامج لهم بالقيام بذلك، وفقًا للشروط التالية:
+
+يجب تضمين إشعار حقوق النشر أعلاه وإشعار الإذن هذا في جميع نسخ أو أجزاء كبيرة من البرنامج.
+
+يتم توفير البرنامج "كما هو"، دون أي ضمان من أي نوع، صريحًا أو ضمنيًا، بما في ذلك على سبيل المثال لا الحصر ضمانات القابلية للتسويق والملاءمة لغرض معين وعدم الانتهاك. لا يتحمل المؤلفون أو أصحاب حقوق النشر بأي حال من الأحوال المسؤولية عن أي مطالبة أو أضرار أو مسؤولية أخرى، سواء في دعوى عقدية أو ضرر أو غير ذلك، ناشئة عن أو فيما يتعلق بالبرنامج أو استخدام أو تعاملات أخرى في البرنامج.
+
+---
+
 MIT License
 
-Copyright (c) 2025 الزناد
+Copyright (c) 2025 الزَّنَاد
 
-بموجب هذا الترخيص، يُمنح أي شخص يحصل على نسخة من هذا البرنامج والملفات المرتبطة به
-حق الاستخدام المجاني للبرنامج دون أي قيود، بما في ذلك الحقوق في استخدام، نسخ، تعديل، دمج، نشر، توزيع، ترخيص،
-و/أو بيع نسخ من البرنامج، مع السماح للأشخاص الذين يتم تزويدهم بالبرنامج بذلك،
-شريطة توفر الإشعار التالي في جميع النسخ أو الأجزاء الأساسية من البرنامج:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-"يجب تضمين الإشعار الأصلي بالحقوق (Copyright) وبيان الإذن هذا في جميع النسخ أو الأجزاء الأساسية من البرنامج."
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-البرنامج يُقدم "كما هو"، دون أي ضمانات صريحة أو ضمنية، بما في ذلك على سبيل المثال لا الحصر،
-ضمانات التجارية، الملاءمة لغرض معين، وعدم الانتهاك. لا يتحمل المؤلفون أو أصحاب الحقوق
-أي مسؤولية عن أي مطالبات، أضرار، أو مسؤوليات أخرى، سواء في إطار عقد،
-أضرار، أو غير ذلك، الناشئة عن أو في اتصال مع البرنامج أو استخدامه أو معاملات أخرى في البرنامج.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
